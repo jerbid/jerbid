@@ -1,7 +1,3 @@
-How's it going, I'm Jared, or known
-online as Cynetri.
-I'm very new to development, and I'm
-working towards creating and contributing 
-to systems for customizable experiences
-within the VR space, especially in the Godot 
-game engine.
+#Hello! A little about myself.
+I'm Cynetri, and I'm a learning programmer. FOSS, VR, and PCs are my big interests, but I also like machines in general as well.
+As of right now, I know mostly C# and GDScript. 
